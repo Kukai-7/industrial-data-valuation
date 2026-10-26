@@ -1,0 +1,9 @@
+short,dataset,ownership,share,score,verdict,value_cost,value_market,value_income,hybrid_before,hybrid_after,gap,attributable,exposure,priority
+Telemetry,Production sensor telemetry,Subsidiary 100%,1.0,44.25,Non-compliant,248688.75,233100.0,1925626.3876,1015456.7156,976843.6327,-0.038,976843.6327,50.0,P3
+Maintenance,Maintenance history,Joint venture,0.5,76.5625,Compliant,528382.8125,831187.5,3675181.9875,1763794.4414,1977808.6239,0.1213,988904.3119,74.0,P1
+Suppliers,Supplier quality and defects,Subsidiary 100%,1.0,39.0312,Non-compliant,122196.4844,84076.875,1124335.33,602260.1953,568626.9938,-0.0558,568626.9938,36.0,P4
+Energy,Plant energy logs,Subsidiary 100%,1.0,37.25,Non-compliant,86255.0,65880.0,742493.7783,398139.4237,373816.0425,-0.0611,373816.0425,44.0,P4
+Supply,Supply chain,Joint venture,0.5,52.25,Non-compliant,200807.75,300645.0,2004931.464,1000593.7399,1006380.8874,0.0058,503190.4437,54.0,P3
+Process,Process parameters,Joint venture,0.5,72.7188,With reservations,380648.2422,213058.5938,4828062.2203,2178617.3639,2401343.7725,0.1022,1200671.8862,74.0,P1
+Personnel,Personnel data,Subsidiary 100%,1.0,18.5,Non-compliant,54600.0,22912.5,334072.6346,214689.2125,181382.4887,-0.1551,181382.4887,50.0,P3
+Testing,Testing and research,Joint venture,0.5,78.1562,Compliant,738511.7188,320681.25,6768122.2558,3075121.6097,3450255.182,0.122,1725127.591,82.0,P1

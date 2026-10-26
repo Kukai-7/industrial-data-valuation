@@ -11,7 +11,7 @@ How can a portfolio of industrial datasets be valued as an intangible asset in a
 | Folder | Content |
 |---|---|
 | [`docs/`](docs/) | Academic summary page, published with GitHub Pages: [kukai-7.github.io/industrial-data-valuation](https://kukai-7.github.io/industrial-data-valuation/) |
-| [`notebooks/`](notebooks/) | `01_valuation_framework.ipynb`, the full study on an anonymised case: 17 criteria, 8 datasets, hybrid valuation, Monte Carlo, AHP, sensitivity, top 8 improvement actions. `02_synthetic_data_generation.ipynb`, three linked synthetic tables and a worked example of the formula below. Both notebooks are written in French. |
+| [`notebooks/`](notebooks/) | `01_valuation_framework.ipynb`, the full study on an anonymised case: 17 criteria, 8 datasets, hybrid valuation, Monte Carlo, AHP, sensitivity, top 8 improvement actions. `02_synthetic_data_generation.ipynb`, three linked synthetic tables and a worked example of the formula below. |
 | [`data/`](data/) | `data/synthetic/` receives the Parquet files written by notebook 02; they are not versioned here and are published on [Hugging Face](https://huggingface.co/datasets/Kukai-7/synthetic-industrial-data-valuation) |
 | [`outputs/`](outputs/) | Figures and the results table produced by notebook 01 |
 
