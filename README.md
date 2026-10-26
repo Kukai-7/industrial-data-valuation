@@ -31,6 +31,16 @@ V = QRU × Σ(Val × ICF) / Vp
 
 Notebook 01 applies the compliance score inside each approach (it adjusts the cost quality factor, the market discount and the income multiplier) rather than as an outer multiplier; notebook 02 and the [online demonstration](https://huggingface.co/spaces/Kukai-7/industrial-data-valuation-demo) apply the formula literally.
 
+## Market context
+
+Two recent signals from outside the case point the same way as the grid: the value of data is judged first on its quality, governance and readiness for use.
+
+- **An industry grid of the same shape.** In May 2026 Black Book Research published a European data valorisation index for healthcare IT, built from 700 IT leaders in eight markets on 18 indicators (data capture, interoperability, quality, governance, analytics, research and AI readiness, localisation, implementation). As here, value is scored criterion by criterion before it is priced.
+- **A regulatory clock.** The European Health Data Space sets March 2027 for several implementing acts, before application phases in 2029 and 2031 (timeline as reported by Black Book).
+- **A market taking shape.** MarketsandMarkets puts the healthcare data valorisation market at USD 0.7 billion in 2026 and USD 1.3 billion in 2031, 14.5% a year; clinical data is the largest share, cloud the fastest-growing segment.
+
+These are research-vendor figures for another sector, not audited: an order of magnitude and a check on method, not a price comparable. Sources: Black Book Research, ACCESS Newswire, Copenhagen, 18 May 2026; MarketsandMarkets, report on the healthcare data market, PR Newswire release 302894117, 30 September 2026.
+
 ## Reproducibility
 
 - Python 3.13; packages in [`requirements.txt`](requirements.txt).
