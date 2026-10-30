@@ -33,13 +33,18 @@ Notebook 01 applies the compliance score inside each approach (it adjusts the co
 
 ## Market context
 
-Two recent signals from outside the case point the same way as the grid: the value of data is judged first on its quality, governance and readiness for use.
+Recent signals from outside the case point the same way as the grid: the value of data is judged first on its quality, governance and readiness for use.
 
 - **An industry grid of the same shape.** In May 2026 Black Book Research published a European data valorisation index for healthcare IT, built from 700 IT leaders in eight markets on 18 indicators (data capture, interoperability, quality, governance, analytics, research and AI readiness, localisation, implementation). As here, value is scored criterion by criterion before it is priced.
 - **A regulatory clock.** The European Health Data Space sets March 2027 for several implementing acts, before application phases in 2029 and 2031 (timeline as reported by Black Book).
 - **A market taking shape.** MarketsandMarkets puts the healthcare data valorisation market at USD 0.7 billion in 2026 and USD 1.3 billion in 2031, 14.5% a year; clinical data is the largest share, cloud the fastest-growing segment.
+- **Speed makes clinical data scarce, and keeps it onshore.** China hosted 45% of the new drug trials launched worldwide in 2025 (1,611 trials, Bloomberg and Norstella), with enrolment two to five times faster and costs near 30% of the usual average; Roche, AstraZeneca and Novartis now run early trials there with local partners. What a licensing partner pays for is the data package that makes a molecule credible, and two adjustments of this grid apply directly: **quality** (US and EU regulators ask to verify data collected abroad against their own standards, as the compliance score does) and **transferability** (genetic data and personal information stay under Chinese filing and export rules, so value is built on site rather than exported). A faster trial also shortens processing time, the `tp` term of `Vp`.
 
-These are research-vendor figures for another sector, not audited: an order of magnitude and a check on method, not a price comparable. Sources: Black Book Research, ACCESS Newswire, Copenhagen, 18 May 2026; MarketsandMarkets, report on the healthcare data market, PR Newswire release 302894117, 30 September 2026.
+These are research-vendor figures for another sector, not audited: an order of magnitude and a check on method, not a price comparable. Sources: Black Book Research, ACCESS Newswire, Copenhagen, 18 May 2026; MarketsandMarkets, report on the healthcare data market, PR Newswire release 302894117, 30 September 2026; Bloomberg, 29 October 2026, as reported by Seoul Economic Daily, 30 October 2026; Morgan Lewis, *Navigating HGR and data risks in China life sciences transactions*, May 2026.
+
+## Booking before valuing
+
+A dataset has to be booked before it can be valued. Since 1 January 2024, China's Ministry of Finance lets companies carry qualifying data resources as intangible assets or inventory, disclosed as a roll-forward: opening, additions, reductions, closing. That is the four-column identity of the Ming state accounts, traced in [Ming–Qing Ledgers](https://github.com/Kukai-7/ming-qing-ledgers).
 
 ## Reproducibility
 
