@@ -46,6 +46,16 @@ These are research-vendor figures for another sector, not audited: an order of m
 
 A dataset has to be booked before it can be valued. Since 1 January 2024, China's Ministry of Finance lets companies carry qualifying data resources as intangible assets or inventory, disclosed as a roll-forward: opening, additions, reductions, closing. That is the four-column identity of the Ming state accounts, traced in [Ming–Qing Ledgers](https://github.com/Kukai-7/ming-qing-ledgers).
 
+## What changed in autumn 2026
+
+The watch in notebook 01 runs to November 2026. Three developments since the first version:
+
+- **Rights registration is live but thin.** The national data property registration system has run in trial operation since 11 September 2026: 56 certificates on day one, three registration bodies, and 14 further first registrations in public notice as of 1 November. It is the link between a compliant dataset and an asset; volumes are too small to read as a market signal.
+- **A new policy round.** On 3 November 2026 the national data authority announced a new three-year round of its data-use action for the next five-year plan period, with a unified national data market and market-based pricing and revenue sharing. No figures were given.
+- **No move yet on international standards.** On 27 October 2026 the IASB discussed options for changing some recognition requirements of IAS 38, tested on agile software development, and took no decision. Data is still not named in the project.
+
+Two 2026 preprints reach a similar architecture: an auditable cost basis kept apart from a commercial value that is not fair value (Blycha et al., arXiv:2606.22760), and quality modelled as management, standard conformity and realised benefit, weighted in part by AHP (Zhu et al., arXiv:2606.26186). Neither is peer-reviewed; full references are in notebook 01.
+
 ## Reproducibility
 
 - Python 3.13; packages in [`requirements.txt`](requirements.txt).
